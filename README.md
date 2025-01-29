@@ -25,3 +25,26 @@ Wait for plugin to finish compiling
 
 ![image](https://github.com/user-attachments/assets/ff02ec37-a0f1-47be-8228-62b7a86b2246)
 
+Create basic network scan
+
+![image](https://github.com/user-attachments/assets/11aaaf20-828f-4065-92b4-dd9f01d7a01f)
+
+Add ip to network scan
+
+![image](https://github.com/user-attachments/assets/a4fbd982-12e8-47f4-bb62-c44f8226523b)
+
+Change discovery scan type to all ports
+
+![image](https://github.com/user-attachments/assets/e744b943-c898-4053-8d96-f23c606e5e45)
+
+Change assesment scan type to web vulnerabilities
+
+![image](https://github.com/user-attachments/assets/7d79eece-9f33-4e1e-98cf-42cea07f77b6)
+
+Save to start scan
+
+Click on play to run scan 
+
+![image](https://github.com/user-attachments/assets/8f8a0c79-a20c-44f1-a877-f1607bcd0c1d)
+
+
