@@ -67,3 +67,4 @@ Click on report, to generate a vulnerability report
 
 ![image](https://github.com/user-attachments/assets/cac625c3-0ed6-4fe4-ab80-0271801aced1)
 
+Now with the report and vulnerability scan output I can go through and start remediating some vulnerabilities
