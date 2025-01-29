@@ -58,7 +58,7 @@ Take note of IPs you want to add to network scan:
 
 ![image](https://github.com/user-attachments/assets/23a72377-8df8-4c72-8603-16444e22e981)
 
-Add ip to network scan
+Add ip(s) to network scan
 
 ![image](https://github.com/user-attachments/assets/a4fbd982-12e8-47f4-bb62-c44f8226523b)
 
@@ -84,7 +84,7 @@ Once the scanning has complete click in the scan to view the results
 
 ![image](https://github.com/user-attachments/assets/28726349-d2ac-4516-9bf9-b760af059830)
 
-Click into the vulnerability to view more details and a solution
+Click into the vulnerability to view more details and solutions
 
 ![image](https://github.com/user-attachments/assets/ec13dc8b-c1e4-4bcd-8c52-aa0794d9d66f)
 
