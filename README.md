@@ -1,5 +1,30 @@
-# VulnScanning
+# Vulnerability Management Project
 
+## Objective
+In this project I grew my cybersecurity skills by setting up and configuring Tenable Nessues to scan and identify vulnerabilities of devices in my network.
+
+I configured a network scan against a metasploitable VM and Kali Linux VM I set up from previous projects.
+
+
+
+### Skills Learned
+
+- Vulnerability Management
+
+### Tools Used
+
+- Tenable Nessus
+- Virtual Machines (VMWare Workstation)
+- Metasploitable https://docs.rapid7.com/metasploit/metasploitable-2/
+
+### Prerequisites 
+- Hypervisor (I used VMWare Workstation)
+- Clients on network that you have permission to scan
+
+
+## Steps
+
+### Step 1 - Download Tenable Nessus on Windows 10 VM
 
 Download Nessus
 
@@ -13,11 +38,11 @@ Initialize
 
 ![image](https://github.com/user-attachments/assets/90f0a195-914c-49fb-9fdf-20e1c5048a19)
 
-
-
 Wait for plugin to finish compiling
 
 ![image](https://github.com/user-attachments/assets/ff02ec37-a0f1-47be-8228-62b7a86b2246)
+
+### Step 2 - Create test scan
 
 Create basic network scan
 
@@ -25,11 +50,11 @@ Create basic network scan
 
 Take note of IPs you want to add to network scan:
 
-Kali ip
+*Kali Linux ip*
 
 ![image](https://github.com/user-attachments/assets/7065cd40-0288-4aaa-81a3-fc5f609eed40)
 
-Metasloitable ip
+*Metasloitable ip*
 
 ![image](https://github.com/user-attachments/assets/23a72377-8df8-4c72-8603-16444e22e981)
 
@@ -45,7 +70,9 @@ Change assesment scan type to web vulnerabilities
 
 ![image](https://github.com/user-attachments/assets/7d79eece-9f33-4e1e-98cf-42cea07f77b6)
 
-Save to start scan
+Save scan
+
+### Step 3 - Run scan and view results
 
 Click on play to run scan 
 
